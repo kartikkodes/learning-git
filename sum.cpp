@@ -5,6 +5,6 @@ using namespace std;
 int main(){
   int a;
   int b;
-  cout<<a+b; 
+  cout<<"Result is "<<a+b; 
 return 0;
 }
